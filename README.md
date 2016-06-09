@@ -1,4 +1,4 @@
-# research-kit-apps
+# ResearchKit Based Apps
 A list of research kit apps.
 
 * Study Name, Principal Investigator Name, Sponsor/Institution, Year Founded. [Website](Insert URL), [App Store](Insert URL)
