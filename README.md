@@ -9,6 +9,7 @@ A list of research kit apps.
 *	C Tracker, PI = ?, Boston Children's Hospital, 2015, [Website](http://c-tracker.chip.org/), [App Store](https://itunes.apple.com/us/app/c-tracker-research-study-on/id1045123122?mt=8)
 *	EpiWatch, Gregory Lewis Krauss, Johns Hopkins University, 2015, [Website](https://itunes.apple.com/us/app/epiwatch/id1047757228?mt=8), [App Store](http://www.hopkinsmedicine.org/epiwatch)
 *	Autism & Beyond, Helen Egger, Duke University Health System, 2015, [Website](https://autismandbeyond.researchkit.duke.edu/), [App Store](https://itunes.apple.com/us/app/autism-beyond/id1025327516?mt=8)
+* Cancer Distress Coach, Sophia Smith, Duke University, 2017. [Website](http://www.dukecancerinstitute.org/distresscoach), [App Store](https://itunes.apple.com/us/app/cancer-distress-coach/id1128914290?ls=1&mt=8), [Play Store](https://play.google.com/store/apps/details?id=org.dihi.rfa.cancercoach)
 *	Mole Mapper, PI = ?, Sage Bionetworks and Oregon Health & Science University, 2015, [Website](http://www.ohsu.edu/xd/health/services/dermatology/war-on-melanoma/mole-mapper.cfm), [App Store](https://itunes.apple.com/us/app/mole-mapper-melanoma-study/id1048337814?mt=8)
 *	EPV, PI = ?, Yale University, 2015, [Website](http://klimanlabs.yale.edu/placenta/epv/), [App Store](https://itunes.apple.com/us/app/epv/id1031035790?mt=8)
 *	StopCOPD (chronic obstructive pulmonary disease), PI = ?, COPD foundation, 2015, [Website](http://www.copdfoundation.org/), [App Store](https://itunes.apple.com/app/stopcopd/id1020845469?mt=8)
